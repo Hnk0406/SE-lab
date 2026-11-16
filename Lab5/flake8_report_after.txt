@@ -1,0 +1,8 @@
+hospital_patient_system.py:31:80: E501 line too long (97 > 79 characters)
+hospital_patient_system.py:34:1: W293 blank line contains whitespace
+hospital_patient_system.py:37:1: W293 blank line contains whitespace
+hospital_patient_system.py:67:80: E501 line too long (92 > 79 characters)
+hospital_patient_system.py:86:80: E501 line too long (90 > 79 characters)
+hospital_patient_system.py:104:1: W293 blank line contains whitespace
+hospital_patient_system.py:109:1: W293 blank line contains whitespace
+hospital_patient_system.py:116:11: W292 no newline at end of file
